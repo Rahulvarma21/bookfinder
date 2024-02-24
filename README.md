@@ -8,4 +8,10 @@ Welcome to ReactBookstore, your go-to destination for discovering and exploring 
   <li>Personalized Recommendations</li>
   <li>Responsive Design</li>
 </ul>
-<h3>Technologies Used</h3>
+<h2>Technologies Used</h2>
+<ul>
+<li>React: Frontend library for building user interfaces.</li>
+<li>React Router: For declarative routing in the application.</li>
+<li>CSS: Styling the components and layout.</li>
+<li>HTML: Markup language for structuring the application.</li>
+</ul>
