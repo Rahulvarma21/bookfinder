@@ -10,7 +10,7 @@ Welcome to ReactBookstore, your go-to destination for discovering and exploring 
 </ul>
 <h2>Technologies Used</h2>
 <ul>
-<li>React: Frontend library for building user interfaces.</li>
+<li>React <img src="https://banner2.cleanpng.com/20180604/pol/kisspng-react-javascript-angularjs-ionic-atom-5b154be6709500.6532453515281223424611.jpg" />: Frontend library for building user interfaces.</li>
 <li>React Router: For declarative routing in the application.</li>
 <li>CSS: Styling the components and layout.</li>
 <li>HTML: Markup language for structuring the application.</li>
