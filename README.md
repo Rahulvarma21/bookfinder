@@ -5,7 +5,7 @@ Welcome to ReactBookstore, your go-to destination for discovering and exploring 
 <ul>
   <li>User-friendly Interface</li>
   <li>Rich Book Catalog</li>
-  <li>Personalized Recommendations</li>
+  <li>Dark mode and light mode options for user preference.</li>
   <li>Responsive Design</li>
 </ul>
 <h2>Technologies Used</h2>
