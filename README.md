@@ -1,4 +1,4 @@
-<h1>BookFinder</h1>
+<h1>bookFinder</h1>
 Welcome to ReactBookstore, your go-to destination for discovering and exploring a vast collection of books! This web application is built with React, providing you with a seamless and interactive experience as you dive into the world of literature.
 
 <h2>Features</h2>
@@ -16,6 +16,5 @@ Welcome to ReactBookstore, your go-to destination for discovering and exploring 
 <li>HTML: Markup language for structuring the application.</li>
 </ul>
 <h2>Contributing</h2>
-We welcome contributions from the community! If you have ideas for improvements, bug fixes, or new features, please feel free to open an issue or submit a pull request.
-
-Happy reading with ReactBookstore! 📚🚀
+I welcome contributions from the community! If you have ideas for improvements, bug fixes, or new features, please feel free to open an issue or submit a pull request.
+Happy reading with bookFinder! 📚🚀
