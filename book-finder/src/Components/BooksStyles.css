@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+}
+
+/* header styling */
+.header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 3vh 2vh 3vh 2vh;
+    background-color: #000000;
+    color: white;
+}
+#headerImg{
+    width: 150px;
+}
+#register{
+    font-size: 20px;
+    text-decoration: none;
+}
+#search{
+    padding: 5px;
+    border: none;
+    border-radius: 20px;
+}
+#onImage{
+    width: 30px;
+}
+#offImage{
+    width: 30px;
+}
+.themeBtn{
+    cursor: pointer;
+    border-radius: 50px;
+    border: none;
+    background-color: rgb(124, 118, 118);
+}
+
+/* Books styling */
+.booksContainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 5vh;
+    column-gap: 10vh;
+    row-gap: 3vh;
+}
+.bookStyle{
+    width: 28vh;
+    margin: 3vh;
+    text-align: center;
+    padding: 3vh;
+    box-shadow: 2px 1px 20px  rgba(255, 255, 255, 0.336), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    cursor: pointer;
+}
+h2{
+    padding-bottom: 10px;
+}
+/* footer styling */
+footer{
+    /* padding: 1vh 1vh 1vh 1vh; */
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0% 4%;
+}
+footer img{
+    margin-top: 10px;
+    border-radius: 30%;
+    height: 150px;
+    width: 150px;
+}
+.footer{
+    flex-direction: column;
+    text-align: right;
+}
+span{
+    cursor: pointer;
+}
+#kalvian{
+    margin: 10px;
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+#footerQuote{
+    font-size: 20px;
+}
+@media screen and (max-width: 426px) {
+    .bookStyle{
+        width: 20vh;
+    }   
+    h2{
+        font-size: 16px;
+    }
+    h3{
+        font-size: 14px;
+    }
+    #headerImg{
+        width: 9cap;
+    }
+    #search{
+        padding: 5px;
+        width: 90px;
+    }
+    #onImage{
+        width: 25px;
+    }
+    #offImage{
+        width: 20px;
+    }
+    footer img{
+        height: 100px;
+        width: 110px;
+    }
+    footer{
+        padding: 2% 4%;
+    }
+    #kalvian{
+        margin: 10px;
+        margin-bottom: 20px;
+        font-size: 12px;
+    }
+    #footerQuote{
+        font-size: 13px;
+    }   
+}
